@@ -1,2 +1,2 @@
 # Project1
- resume website assignment
+ CSCI 39548 Web Dev - resume website assignment
